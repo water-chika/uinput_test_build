@@ -5,3 +5,6 @@ project(uinput_test)
 add_subdirectory(serial_mouse)
 add_subdirectory(uinput_helper)
 
+add_dependencies(uinput_test
+	serial_mouse)
+
