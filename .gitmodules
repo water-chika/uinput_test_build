@@ -1,0 +1,6 @@
+[submodule "uinput_helper"]
+	path = uinput_helper
+	url = https://github.com/water-chika/uinput_helper
+[submodule "serial_mouse"]
+	path = serial_mouse
+	url = https://github.com/water-chika/serial_mouse
